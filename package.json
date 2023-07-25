@@ -1,0 +1,9 @@
+{
+  "name": "prisma-schema-merge",
+  "version": "0.0.1",
+  "description": "The package for merge schema files and migrate Prisma",
+  "main": "index.ts",
+  "repository": "https://github.com/henrynguyen6677/prisma-schema-merge",
+  "author": "henry <henrynguyen6677@gmail.com>",
+  "license": "MIT"
+}
